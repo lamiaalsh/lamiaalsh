@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Azure and Cloud Computing**
 
-- 💬 Ask me about **NLP, ML models, Web Coding, Data Visualization**
+- 💬 Ask me about **NLP, ML models, Web Coding, Data Visualization, Web Scraping**
 
 
 
