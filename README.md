@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Lamia !!!</h1>
+<h1 align="center">Hello 👋 !!!</h1>
 
 <p align="center">
 
 ![Image-Description](https://i.pinimg.com/originals/92/a4/6b/92a46b0686ee6bd468c57364d1128bfc.gif)
 
 <p align = "center">
-  I'm <b>Lamia</b>, a Data Scientist in making, and welcome to my little place of data projects!!! 📊
+  A  Data Scientist in making, and welcome to my little place of data projects!!! 📊
 </p> 
 
 
@@ -46,5 +46,4 @@
 <h1 align="center">Github Stats</h1>
  <div align="center" >
 <img width="43%" src="https://github-readme-stats.vercel.app/api?username=lamiaalsh&theme=tokyonight&show_icons=true"> <br>
- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamiaalsh&layout=compact&theme=tokyonight">
 </div> 
