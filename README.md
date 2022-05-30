@@ -1,24 +1,29 @@
 <h1 align="center">Hi 👋, I'm Lamia !!!</h1>
-<h3 align="center"> Data Scientist </h3>
 
 <p align="center">
 
+![Image-Description](https://i.pinimg.com/originals/92/a4/6b/92a46b0686ee6bd468c57364d1128bfc.gif)
 
-<p align="center">
-  <img alt="This is background profile picture" src="https://github.com/Shrivishnu22/Shrivishnu22/blob/main/profile.gif">
+<p align = "center">
+  I'm <b>Lamia</b>, a Data Scientist in making, and welcome to my little place of data projects!!! 📊
+</p> 
+<p align = "center">
+  Don't forget to drop me a ⭐ if you find any of my repositories useful 🥰
 </p>
 
-- 🔭 I’m currently working on **something cool !!**
 
-- 🌱 I’m currently learning **App Development**
+- 🔭 I’m currently working as **Web Data Analyst**
 
-- 👯 I’m currently looking to **Be a Full-time Data Analyst**
+- 🌱 I’m currently learning **Azure and Cloud Computing**
 
-- 💬 Ask me about **NLP, ML models, Web Coding**
+- 💬 Ask me about **NLP, ML models, Web Coding, Data Visualization**
+
+
+
 
 <h3 align="center">About Me</h3>
 <p align="center">
-  Hi, I'm <b>Lamia Alshahrani</b>.I pursued my Master's degree from University of Central Florida in Data Analytics. I am a Data analyst passionate about Data and new technologies. Currently, I work as a Data Analyst to enhance Bing(Microsoft) Search engine.
+  Hi, I'm <b>Lamia Alshahrani</b>.I pursued my Master's degree from University of Central Florida in Data Analytics. I am a Data analyst with a background of Information Technology, passionate about Data and new technologies. Currently, I work as a Data Analyst to enhance Bing(Microsoft) Search engine.
   </p>
 
 <h3 align="center">Connect with me:</h3>
