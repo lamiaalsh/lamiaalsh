@@ -24,7 +24,7 @@
   Hi, I'm <b>Lamia Alshahrani</b>.I pursued my Master's degree from University of Central Florida in Data Analytics. I am a Data analyst with a background of Information Technology, passionate about Data and new technologies. Currently, I work as a Data Analyst to enhance Bing(Microsoft) Search engine.
   </p>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lamia-alshahrani-652446137//)&nbsp; ![](https://Visitor-badge.glitch.me/badge?page_id=m-juneja-code.profileviews-badge)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lamia-alshahrani-652446137/)&nbsp; ![](https://Visitor-badge.glitch.me/badge?page_id=m-juneja-code.profileviews-badge)
 
 ### Languages and Tools-
 
