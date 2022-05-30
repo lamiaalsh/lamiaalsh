@@ -10,6 +10,8 @@
 
 
 
+<br></br>
+
 - 🔭 I’m currently working as **Web Data Analyst**
 
 - 🌱 I’m currently learning **Azure and Cloud Computing**
@@ -17,6 +19,9 @@
 - 💬 Ask me about **NLP, ML models, Web Coding, Data Visualization, Web Scraping**
 
 
+
+
+<br></br>
 
 
 <h3 align="center">About Me</h3>
