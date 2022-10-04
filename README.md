@@ -5,7 +5,6 @@
 ![Image-Description](https://i.pinimg.com/originals/92/a4/6b/92a46b0686ee6bd468c57364d1128bfc.gif)
 
 <p align = "center">
-  A  Data Scientist in making, and welcome to my little place of data projects!!! 📊
 </p> 
 
 
